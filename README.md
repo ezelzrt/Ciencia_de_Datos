@@ -1,2 +1,8 @@
-# Ciencia_de_Datos
-TP's realizados para la materia Ciencia de Datos (antes Organización de Datos) catedra Rodriguez (75.06/95.58) durante el 2C de 2023
+# 7506R-2C2023-GRUPO32
+
+# TP1 Orga de datos : Reservas de Hotel - Cátedra Rodríguez
+Integrantes del grupo:
+ * Daniel Agustin Marianetti - Padrón: 106256,
+ * Franco Rodriguez - Padrón: 102815,
+ * Ezequiel Lazarte - Padrón: 108063
+ 
